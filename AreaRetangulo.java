@@ -12,5 +12,6 @@ public class AreaRetangulo {
         sc.nextLine();
         float area = base * altura;
         System.out.println(String.format("Area do retângulo: %.2f",area));
+        sc.close();
     }
 }

@@ -17,5 +17,6 @@ public class MediaAritmetica {
         }
         float media = (float) soma / valores.size();
         System.out.println(String.format("A média aritmética dos números digitados é: %.2f", media));
+        sc.close();
     }
 }

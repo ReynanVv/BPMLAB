@@ -12,5 +12,6 @@ public class AreaTriangulo {
         sc.nextLine();
         float area = (base * altura) / 2;
         System.out.println(String.format("Área do Triângulo: %.2f", area));
+        sc.close();
     }
 }

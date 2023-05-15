@@ -9,5 +9,6 @@ public class AreaQuadrado {
         sc.nextLine();
         float area = L * L;
         System.out.println(String.format("Area do Quadrado: %.2f",area));
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class VolumeEsfera {
         System.out.println(String.format("valor do Raio: %.2f", Raio));
         double Volume = ((4*PI) * Math.pow(Raio,3)) / 3;
         System.out.println(String.format("Volume da Esfera: %.3f", Volume));
+        sc.close();
     }
 }
