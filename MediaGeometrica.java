@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MediaGeometrica {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        List<Double> valores = new ArrayList();
+        List<Double> valores = new ArrayList<Double>();
         while (valores.size() < 2) {
             System.out.println("Digite um valor qualquer: ");
             Double valor = sc.nextDouble();

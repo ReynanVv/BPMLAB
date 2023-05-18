@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MediaAritmetica {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        List<Integer> valores = new ArrayList();
+        List<Integer> valores = new ArrayList<Integer>();
         while (valores.size() < 4) {
             System.out.println("Digite um valor inteiro qualquer: ");
             int valor = sc.nextInt();
