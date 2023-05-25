@@ -1,3 +1,4 @@
+// 3.7
 public class SomaIntervalo {
     public static void main(String[] args) {
         int soma = 0;

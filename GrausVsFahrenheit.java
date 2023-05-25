@@ -1,5 +1,5 @@
 // F = (°C x 1,8) + 32
-
+// 1.10
 import java.util.Scanner;
 
 public class GrausVsFahrenheit{

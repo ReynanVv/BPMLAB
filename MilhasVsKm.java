@@ -3,6 +3,7 @@ cinqüenta e dois metros e que um quilômetro possui mil metros, fazer um
 programa para converter milhas marítimas em quilômetros.
 1 Milha náutica é igual a 1,85 km
 */
+// 1.8
 
 import java.util.Scanner;
 

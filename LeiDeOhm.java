@@ -1,4 +1,5 @@
 // U = R * I
+// 1.9
 import java.util.Scanner;
 
 public class LeiDeOhm {

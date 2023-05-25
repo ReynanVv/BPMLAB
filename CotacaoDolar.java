@@ -1,3 +1,4 @@
+// 1.15
 import java.util.Scanner;
 
 public class CotacaoDolar {

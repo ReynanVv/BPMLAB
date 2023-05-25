@@ -1,3 +1,4 @@
+// 3.10
 import java.util.Scanner;
 
 public class SomaSequencia {
@@ -20,10 +21,12 @@ public class SomaSequencia {
     public static int calcularSomaSequencia(int n) {
         int soma = 0;
         int valor = 2;
+        int incremento = 3;
 
         for (int i = 0; i < n; i++) {
             soma += valor;
-            valor += (i + 1) * 2;
+            valor += incremento;
+            incremento += 2;
         }
 
         return soma;

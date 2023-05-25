@@ -1,3 +1,4 @@
+// 1.19
 import java.util.Scanner;
 
 public class CalculoNotaSegundaAvaliacao {

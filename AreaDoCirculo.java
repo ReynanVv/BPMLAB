@@ -1,4 +1,5 @@
 // A = π r²
+// 1.11
 import java.util.Scanner;
 
 public class AreaDoCirculo {

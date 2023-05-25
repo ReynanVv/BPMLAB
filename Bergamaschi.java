@@ -1,3 +1,4 @@
+// 3.9
 public class Bergamaschi {
     public static void main(String[] args) {
         int n = 20; // Quantidade de valores da série a serem exibidos
